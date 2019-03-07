@@ -39,12 +39,19 @@ DELL XPS 15 9570 8750H 1080P macOS Mojave
 2. 解决睡眠花屏的问题
 
     Dell XPS 9570 4k Mojave 10.14.3出现随机IGPU error panic 
+    
     http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1807288&highlight=9570
     
     @kevinshroff  https://github.com/kevinshroff/Dell-XPS-15-9570-macOS-Mojave.git
+    
     @shenlinsl https://github.com/shenlinsl/DELL-XPS-15-9570-8950-4K-macOS-Mojave.git
+    
     @Xigtunhttps://github.com/Xigtun/xps-9570-mojave.git
+    
 3. 开启HIDPI
+
     https://comsysto.github.io/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions/
+    
     https://github.com/xzhih/one-key-hidpi
+    
     ...
