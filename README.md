@@ -16,6 +16,9 @@ USB 2.0 BILLBOARD
 蓝牙 HCI
 USB无线网卡5G
 睡眠唤醒正常不花屏
+TYPE-C转DP 外接2K显示器正常
+开启HIDPI 1080P正常
+
 
 不工作（待验证）：
 
@@ -41,3 +44,7 @@ HDMI
     @kevinshroff  https://github.com/kevinshroff/Dell-XPS-15-9570-macOS-Mojave.git
     @shenlinsl https://github.com/shenlinsl/DELL-XPS-15-9570-8950-4K-macOS-Mojave.git
     @Xigtunhttps://github.com/Xigtun/xps-9570-mojave.git
+3. 开启HIDPI
+    https://comsysto.github.io/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions/
+    https://github.com/xzhih/one-key-hidpi
+    ...
