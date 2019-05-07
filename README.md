@@ -1,9 +1,7 @@
 # DELL-XPS-15-9570-8750H-1080P-macOS-Mojave
 DELL XPS 15 9570 8750H 1080P macOS Mojave
 
-特别说明：
-10.14.3 正常工作。
-10.14.4 笔记本内屏，启动黑屏，只有type-c外接的显示器能正常启动工作。
+说明：支持10.14.3 ，10.14.4 
 
 
 
@@ -60,4 +58,6 @@ DELL XPS 15 9570 8750H 1080P macOS Mojave
     
     https://github.com/xzhih/one-key-hidpi
     
-    ...
+4. 解决升级10.14.4笔记本内屏重启黑屏的问题
+
+    https://github.com/M69W/XPS-15-9570-macOS-Mojave
