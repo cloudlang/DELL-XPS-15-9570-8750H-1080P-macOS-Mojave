@@ -48,7 +48,7 @@ DELL XPS 15 9570 8750H 1080P macOS Mojave
     
     @shenlinsl https://github.com/shenlinsl/DELL-XPS-15-9570-8950-4K-macOS-Mojave.git
     
-    @Xigtunhttps://github.com/Xigtun/xps-9570-mojave.git
+    @Xigtun https://github.com/Xigtun/xps-9570-mojave.git
     
 3. 开启HIDPI
 
