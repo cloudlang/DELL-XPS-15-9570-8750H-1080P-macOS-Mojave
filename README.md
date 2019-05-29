@@ -1,7 +1,7 @@
 # DELL-XPS-15-9570-8750H-1080P-macOS-Mojave
 DELL XPS 15 9570 8750H 1080P macOS Mojave
 
-说明：支持10.14.3 ，10.14.4 
+说明：支持10.14.3 ，10.14.4 ，10.14.5 
 
 
 
@@ -21,17 +21,15 @@ DELL XPS 15 9570 8750H 1080P macOS Mojave
     USB无线网卡5G
     睡眠唤醒正常不花屏
     TYPE-C转DP 外接2K显示器正常
+    HDMI 外接2K显示器正常
     开启HIDPI 1080P正常
 
 
-不工作（待验证）：
+不工作：
 
     Nvidia GeForce GTX 1050 Ti with Max-Q Design ( 4 GB )
     Atheros Killer Wireless-n/a/ac 1535 Wireless Network Adapter / Bigfoot Networks
     SD卡读卡器
-    HDMI
-
-
 
 
 参考：
