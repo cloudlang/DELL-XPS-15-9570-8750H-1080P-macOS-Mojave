@@ -1,7 +1,7 @@
 # DELL-XPS-15-9570-8750H-1080P-macOS-Mojave
 DELL XPS 15 9570 8750H 1080P macOS Mojave
 
-说明：支持10.14.3 ，10.14.4 ，10.14.5 
+说明：系统支持 10.14.4 >> 10.14.5 
 
 
 
@@ -34,28 +34,14 @@ DELL XPS 15 9570 8750H 1080P macOS Mojave
 
 参考：
 
-1. 主要解决大部分硬件和type-c的问题
+1. 90%配置参考来源，修改1080P相关参数
 
-    黑苹果社区：https://osx.cx/ 
+    https://github.com/bavariancake/XPS9570-macOS
 
-2. 解决睡眠花屏的问题
-
-    Dell XPS 9570 4k Mojave 10.14.3出现随机IGPU error panic 
     
-    http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1807288&highlight=9570
-    
-    @kevinshroff  https://github.com/kevinshroff/Dell-XPS-15-9570-macOS-Mojave.git
-    
-    @shenlinsl https://github.com/shenlinsl/DELL-XPS-15-9570-8950-4K-macOS-Mojave.git
-    
-    @Xigtun https://github.com/Xigtun/xps-9570-mojave.git
-    
-3. 开启HIDPI
+2. 开启HIDPI，改善1080P字体模糊问题
 
     https://comsysto.github.io/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions/
     
     https://github.com/xzhih/one-key-hidpi
     
-4. 解决升级10.14.4笔记本内屏重启黑屏的问题
-
-    https://github.com/M69W/XPS-15-9570-macOS-Mojave
