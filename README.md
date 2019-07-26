@@ -1,7 +1,7 @@
 # DELL-XPS-15-9570-8750H-1080P-macOS-Mojave
 DELL XPS 15 9570 8750H 1080P macOS Mojave
-
-说明：系统支持 10.14.4 >> 10.14.5 
+BIOS: XPS_9570_1.12.0
+MacOS：系统支持 10.14.4 >> 10.14.5 >> 10.14.6 
 
 
 
