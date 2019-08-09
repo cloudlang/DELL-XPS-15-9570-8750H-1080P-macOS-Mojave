@@ -2,15 +2,15 @@
 DELL XPS 15 9570 8750H 1080P macOS Mojave
 BIOS: XPS_9570_1.12.0
 MacOS：系统支持 10.14.4 >> 10.14.5 >> 10.14.6 
-
+WinOS：Windows 10 19H1 1903 双系统共存
 
 
 工作：
 
-    英特尔 Core i7-8750H @ 2.20GHz 六核
-    戴尔 02MJVY ( Intel/DRAM Registers - 3EC4 - C240 Series 芯片组 Family - A30E )
-    夏普 SHP149A ( 15.5 英寸 1080P  )
-    瑞昱  @ 英特尔 High Definition Audio
+    CPU：英特尔 Core i7-8750H @ 2.20GHz 六核
+    内建显示器： 夏普 SHP149A  15.5 英寸 1920 x 1080 ，开启HIDPI 正常
+    外接显示器：DELL U2718QM 显示器 27.5－英寸 (3840 x 2160)（TYPE-C转DP）
+    声卡：瑞昱  @ 英特尔 High Definition Audio
     NVMe SK hynix 512GB
     Intel 300 Series Chipset
     USB 3.1 总线
@@ -20,9 +20,7 @@ MacOS：系统支持 10.14.4 >> 10.14.5 >> 10.14.6
     蓝牙 HCI
     USB无线网卡5G
     睡眠唤醒正常不花屏
-    TYPE-C转DP 外接4K显示器正常
-    HDMI 外接2K显示器正常
-    开启HIDPI 1080P正常
+
 
 
 不工作：
@@ -31,6 +29,11 @@ MacOS：系统支持 10.14.4 >> 10.14.5 >> 10.14.6
     Atheros Killer Wireless-n/a/ac 1535 Wireless Network Adapter / Bigfoot Networks
     SD卡读卡器
 
+
+![系统概览](https://github.com/cloudlang/DELL-XPS-15-9570-8750H-1080P-macOS-Mojave/blob/master/imgs/系统概览.png)
+![显示器](https://github.com/cloudlang/DELL-XPS-15-9570-8750H-1080P-macOS-Mojave/blob/master/imgs/显示器.png)
+![CPU信息](https://github.com/cloudlang/DELL-XPS-15-9570-8750H-1080P-macOS-Mojave/blob/master/imgs/CPU%E4%BF%A1%E6%81%AF.jpg)
+![HIDPI](https://github.com/cloudlang/DELL-XPS-15-9570-8750H-1080P-macOS-Mojave/blob/master/imgs/HIDPI.jpg)
 
 参考：
 
