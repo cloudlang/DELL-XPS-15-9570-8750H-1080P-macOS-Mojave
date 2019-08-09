@@ -34,7 +34,7 @@ WinOS：Windows 10 19H1 1903 双系统共存
     SD卡读卡器
 
 
-![系统概览](https://github.com/cloudlang/DELL-XPS-15-9570-8750H-1080P-macOS-Mojave/blob/master/imgs/系统概览.png)
+
 ![显示器](https://github.com/cloudlang/DELL-XPS-15-9570-8750H-1080P-macOS-Mojave/blob/master/imgs/显示器.png)
 ![CPU信息](https://github.com/cloudlang/DELL-XPS-15-9570-8750H-1080P-macOS-Mojave/blob/master/imgs/CPU%E4%BF%A1%E6%81%AF.jpg)
 ![HIDPI](https://github.com/cloudlang/DELL-XPS-15-9570-8750H-1080P-macOS-Mojave/blob/master/imgs/HIDPI.jpg)
